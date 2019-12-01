@@ -4,6 +4,9 @@
 #include <tuple>
 #include <algorithm>
 
+//debug is incomplete.
+//copyright 2019 Yakitori.
+
 template<class T>
 class FlatNTree {
 public:
